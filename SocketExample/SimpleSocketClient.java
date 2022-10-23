@@ -1,3 +1,5 @@
+package SocketExample;
+
 // https://jdm.kr/blog/154
 // 자바 동기(synchronous) 소켓 프로그래밍
 

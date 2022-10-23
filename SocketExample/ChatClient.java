@@ -3,7 +3,7 @@
  * Desc : MessagePacker를 활용한 비동기 통신 프로그램 클라이언트
  * Blog : http://gompangs.tistory.com/
  */
-package Chat;
+package SocketExample;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

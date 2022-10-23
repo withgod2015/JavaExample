@@ -1,3 +1,5 @@
+package SocketExample;
+
 // https://note.espriter.net/1097
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

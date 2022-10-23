@@ -4,7 +4,7 @@
  * Blog : http://gompangs.tistory.com/
  */
 
-package Chat;
+package SocketExample;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
